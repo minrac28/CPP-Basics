@@ -84,4 +84,4 @@ int main()
     // int sum = sumofarray(a,size);
     // cout<< " sumofarray = "<<sum<<endl;
     return 0;
-} // trying to merge
+}
